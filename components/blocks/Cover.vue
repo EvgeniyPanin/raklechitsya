@@ -16,6 +16,7 @@ export default {};
   display: flex;
   flex-direction: column;
   background-color: #613a93;
+  /* position: relative; */
   align-items: center;
 }
 
